@@ -2,7 +2,7 @@
 This project is a real-time emotion detection and music recommendation web application. It captures the user’s mood through a webcam image, classifies it using a deep learning model, and recommends songs tailored to the detected mood using a local dataset.
 
 # 🔍 Features
-🎥 Live Webcam Mood Detection using a pre-trained CNN (MobileNetV2)
+🎥 Live Webcam Mood Detection using CNN deep learning model.
 
 🧠 Real-Time Emotion Classification into moods like happy, sad, angry, neutral, and more
 
